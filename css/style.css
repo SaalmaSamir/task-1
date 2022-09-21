@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(7, 7, 12);
+}
+.table{
+    margin: 75px auto;
+    text-align: center;
+    width: 75%;
+    background-color: rgb(8, 10, 31);
+}
+.row{
+    margin: 200px auto;
+    color: rgb(255, 255, 255);
+    width: 80%;
+    background-color: rgb(8, 10, 31);
+}
+.col-12 {
+    text-align: center;
+}
+body .form{
+    width: 75%;
+    margin: 50px auto;
+}
+.form-control{
+    margin: 20px auto;
+}
+.form-label,
+.table tr th,
+.table tr td{
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.btn{
+    margin: 20px 0px;
+}
+/* .btn-info,
+.btn-danger{
+    margin: 0px;
+} */
+.btn-secondary{
+    width: 15%;
+    margin: 25px 41%;
+}
+body .div{
+    width: 25%;
+    margin: 200px auto;
+    text-align: center;
+    padding: 20px;
+}
